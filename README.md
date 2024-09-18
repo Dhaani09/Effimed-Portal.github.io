@@ -67,10 +67,10 @@ We welcome collaboration with healthcare institutions seeking innovative solutio
 ## Contact
 
 For inquiries and collaboration, please contact:
-- **Arunima Negi:** 
-- **Email:** arunima.negi@yahoo.com
-## Contributors 
-- **Arunima Negi:** 
 - **Dhaani Jain:** 
+- **Email:** jaindhaani0919@gmail.com
+## Contributors 
+- **Dhaani Jain:** 
+- **Arunima Negi:** 
 - **Aryan Gupta:**  
 
