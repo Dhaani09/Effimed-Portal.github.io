@@ -1,4 +1,7 @@
 # Effimed-Hub
+
+Visit the Website: https://dhaani09.github.io/Effimed-Portal.github.io/
+
 ## Overview
 
 The **EffimedHUB** is a revolutionary healthcare management solution that combines web development, data visualization, resource management, and machine learning to address critical challenges in healthcare institutions. The project offers an intuitive dashboard, efficient resource allocation, and a powerful disease severity assessment model, all aimed at improving healthcare quality.
@@ -64,13 +67,22 @@ The project is committed to continuous innovation. Future plans include integrat
 
 We welcome collaboration with healthcare institutions seeking innovative solutions. Partner with us to enhance your hospital's services, streamline operations, and elevate patient care.
 
-## Contact
 
-For inquiries and collaboration, please contact:
-- **Dhaani Jain:** 
-- **Email:** jaindhaani0919@gmail.com
+--------
+
+## 📫 Contact Me  
+📧 Email: jaindhaani0919@gmail.com
+💼 LinkedIn: www.linkedin.com/in/dhaani-jain-09b9482a0  
+💻 GitHub: https://github.com/Dhaani09
+🌐 Portfolio: https://dhaani09.github.io/Portfolio/ 
+
+---
+
+⭐ Feel free to check out my work and connect with me! If you like my portfolio, consider **starring** this repository!  
+ 
+
 ## Contributors 
-- **Dhaani Jain:** 
-- **Arunima Negi:** 
-- **Aryan Gupta:**  
+- **Dhaani Jain** 
+- **Arunima Negi** 
+- **Aryan Gupta**  
 
